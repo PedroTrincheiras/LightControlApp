@@ -15,3 +15,6 @@ This is my Light Control App.
 ## New Features:
 
 * Popup menu to change light color.
+
+## Screenshots:
+![Screenshot_20210320-192732](https://user-images.githubusercontent.com/59057189/111883495-ae382b00-89b3-11eb-9e78-2098228034ec.png)
